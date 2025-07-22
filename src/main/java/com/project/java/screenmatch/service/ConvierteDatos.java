@@ -2,7 +2,6 @@ package com.project.java.screenmatch.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.project.java.screenmatch.DatosSerie;
 
 public class ConvierteDatos implements IConvierteDatos {
 
